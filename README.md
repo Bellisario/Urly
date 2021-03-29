@@ -14,4 +14,4 @@ If you have a question, don't create an issue, but use [disscussions](https://gi
 
 
 ## How to build
-Urly is built with WinRar sfx, so, you need to have WinRar in your computer and you need to create an archive with sfx and add a comment with [this file content](https://github.com/Bellisario/Urly/blob/master/build.txt).
+Urly is built with WinRar sfx, so, you need to have WinRar in your computer, to create an archive with sfx and add a comment with [this file content](https://github.com/Bellisario/Urly/blob/master/build.txt).
