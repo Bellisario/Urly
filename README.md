@@ -10,7 +10,7 @@ Because it's the easy way to unshort every link from a simple command line inter
 Really? We like suggestions... you are free to create an [issue](https://github.com/Bellisario/Urly/issues) or a [pull request](https://github.com/Bellisario/Urly/pulls) to make this app best.
 
 ### I've a question
-If you have a question, don't create an issue, but use [disscussions](https://github.com/Bellisario/Urly/discussions)!
+If you have a question, don't create an issue, but use [disscussions](https://github.com/Bellisario/Urly/discussions) or find an answer in [frequently asked questions](https://github.com/Bellisario/Urly/blob/master/QUESTIONS.md)!
 
 
 ## How to build
