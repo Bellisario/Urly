@@ -1,0 +1,3 @@
+A simple commandline URL Unshortener, by Bellisario.
+See more info at NULL.
+Version 1.0.0.
