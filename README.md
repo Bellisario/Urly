@@ -6,6 +6,10 @@ A simple command line URL Unshortener.
 ### Why use "Urly"?
 Because it's the easy way to unshort every link from a simple command line interface.
 
+### Preview
+![Urly Preview](https://user-images.githubusercontent.com/72039923/113476332-2ce49c00-947b-11eb-8c02-b99292760ed9.gif)
+
+
 ### I've a suggestion
 Really? We like suggestions... you are free to create an [issue](https://github.com/Bellisario/Urly/issues) or a [pull request](https://github.com/Bellisario/Urly/pulls) to make this app best.
 
