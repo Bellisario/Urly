@@ -19,3 +19,7 @@ If you have a question, don't create an issue, but use [disscussions](https://gi
 
 ## How to build
 Urly is built with WinRar sfx, so, you need to have WinRar in your computer, to create an archive with sfx and add a comment with [this file content](https://github.com/Bellisario/Urly/blob/master/build.txt).
+
+## Next goals
+- [ ] Linux and MacOS support (main discussion [here](https://github.com/Bellisario/Urly/discussions/2))
+- [ ] Automatic update checker with package.json
